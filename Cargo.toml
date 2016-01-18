@@ -1,0 +1,13 @@
+[package]
+name = "noto_font"
+version = "0.1.0"
+authors = ["Marius Seritan <github@seritan.net>"]
+repository = "https://github.com/winding-lines/noto-font.git"
+license = "MIT"
+description = "Manages Noto font for Piston Conrod apps"
+
+[lib]
+name = "noto_font"
+
+[dependencies]
+hyper = "0.7"
